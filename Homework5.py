@@ -10,10 +10,10 @@
 
 def github() -> str:
     """
-    Some docstrings.
+    This function returns a link to my solution on GitHub.
     """
 
-    return "https://github.com/<user>/<repo>/blob/main/<filename.py>"
+    return "https://github.com/tbusid/econ481/edit/main/Homework5.py"
 
 
 # ## Exercise 1
@@ -21,6 +21,7 @@ def github() -> str:
 # In[24]:
 
 
+import pandas as pd
 import re
 import requests
 from bs4 import BeautifulSoup
