@@ -13,7 +13,7 @@ def github() -> str:
     Returns a link to my solutions on GitHub.
     """
 
-    return "https://github.com/<user>/<repo>/blob/main/<filename.py>"
+    return "https://github.com/tbusid/econ481/blob/main/Homework6.py"
 
 
 # ## Exercise 1
